@@ -4,3 +4,13 @@ This ePortfolio is designed to showcase my skills and abilities from the Compute
 1. Software design and engineering
 2. Algorithms and data structure
 3. Databases
+
+###### Professional Self-Assessment
+
+###### Code Review
+
+###### Software Design and Engineering
+
+###### Algorithms and Data Structure
+
+###### Databases
