@@ -8,7 +8,9 @@ This ePortfolio is designed to showcase my skills and abilities from the Compute
 ## Professional Self-Assessment
 
 ## Code Review
+
 ###### Description
+The following code review videos document the origins of each artifact, the areas for enhancement, and the skills highlighted by each artifact.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LAJbndKtJ5o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
