@@ -5,11 +5,11 @@
 </style>
 # Welcome to my CS 499 ePortfolio!
 
-<p class="tab">This ePortfolio is designed to showcase my skills and abilities from the Computer Science program at Southern New Hampshire University. It will contain an artifact or artifacts demonstrating my skills and abilities in three key categories:
+<p class="tab">This ePortfolio is designed to showcase my skills and abilities from the Computer Science program at Southern New Hampshire University. It will contain an artifact or artifacts demonstrating my skills and abilities in three key categories:</p>
 
-1. Software design and engineering
-2. Algorithms and data structure
-3. Databases</p>
+<p class="tab">1. Software design and engineering</p>
+<p class="tab">2. Algorithms and data structure</p>
+<p class="tab">3. Databases</p>
 
 ## Professional Self-Assessment
 
